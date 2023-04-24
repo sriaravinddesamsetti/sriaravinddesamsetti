@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohan Sai Dinesh</h1>
+<h1 align="center">Hi 👋, I'm Sri Aravind Desamsetti</h1>
 <h3 align="center">Programmer || AI Enthusiast</h3>
 
 - 🔭 I’m currently studying in [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
-
 - 📫 How to reach me **21pa5a0501@vishnu.edu.in**
-
 - ⚡ Fun fact **I don't care about anyone**
 
 <h3 align="left">Connect with me:</h3>
