@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sri Aravind Desamsetti</h1>
-<h3 align="center">Programmer || AI Enthusiast</h3>
+<h3 align="center">Python || ML || AI Developer || VIT 2024</h3>
 
 - 🔭 I’m currently studying in [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
-- 📫 How to reach me **21pa5a0501@vishnu.edu.in**
-- ⚡ Fun fact **I don't care about anyone**
+- ❤️ Personal [Portfolio](https://portfolio-amber-one-22.vercel.app/)
+- 🔬 Research Work [Orcid](https://orcid.org/0009-0002-2940-0887)
+
+- 📫 How to reach me **sriaravinddesamsetti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://instagram.com/its_r_vind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.nani._.marvelous._" height="30" width="40" /></a>
+<a href="https://medium.com/@21pa5a0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@20pa1a0521" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21pa5a0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20pa1a0521" height="30" width="40" /></a>
 </p>
 
